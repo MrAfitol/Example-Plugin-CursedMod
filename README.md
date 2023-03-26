@@ -1,4 +1,4 @@
-# Exemple-Plugin-CursedMod
+# Example-Plugin-CursedMod
 A simple plugin created as an example of plugins for CursedMod
 ### There are examples in the plugin:
 * How to create the main class that will load our plugin
