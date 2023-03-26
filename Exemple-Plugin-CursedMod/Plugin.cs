@@ -25,7 +25,7 @@
             //Get the configuration or create it if it doesn't exist.
             Config = GetConfig<Config>("config");
             EventHandlers = new EventHandlers();
-            //Subscriptions to event.
+            //Subscriptions to events.
             PlayerEventsHandler.Joined += EventHandlers.OnPlayerJoined;
             PlayerEventsHandler.Disconnected += EventHandlers.OnPlayerLeft;
 
@@ -34,7 +34,7 @@
 
         public override void OnUnloaded()
         {
-            //Unsubscribes from the event.
+            //Unsubscribes from the events.
             PlayerEventsHandler.Joined -= EventHandlers.OnPlayerJoined;
             PlayerEventsHandler.Disconnected -= EventHandlers.OnPlayerLeft;
 
