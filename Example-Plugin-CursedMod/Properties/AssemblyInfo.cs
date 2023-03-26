@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Exemple-Plugin")]
+[assembly: AssemblyTitle("Example-Plugin")]
 [assembly: AssemblyDescription("A simple plugin created as an example of plugins for CursedMod")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("MrAfitol")]
-[assembly: AssemblyProduct("Exemple-Plugin")]
+[assembly: AssemblyProduct("Example-Plugin")]
 [assembly: AssemblyCopyright("Copyright © MrAfitol 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

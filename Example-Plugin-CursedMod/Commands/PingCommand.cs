@@ -1,4 +1,4 @@
-﻿namespace Exemple_Plugin.Commands
+﻿namespace Example_Plugin.Commands
 {
     using CommandSystem;
     using System;

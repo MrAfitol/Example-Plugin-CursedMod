@@ -1,4 +1,4 @@
-﻿namespace Exemple_Plugin
+﻿namespace Example_Plugin
 {
     using CursedMod.Events.Handlers.Player;
     using CursedMod.Loader;
@@ -7,7 +7,7 @@
 
     public class Plugin : CursedModule
     {
-        public override string ModuleName => "Exemple Plugin";
+        public override string ModuleName => "Example Plugin";
         public override string ModuleAuthor => "Nickname";
         public override byte LoadPriority => (byte)ModulePriority.Medium;
         public override string ModuleVersion => "1.0.0";

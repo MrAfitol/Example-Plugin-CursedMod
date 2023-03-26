@@ -1,4 +1,4 @@
-﻿namespace Exemple_Plugin
+﻿namespace Example_Plugin
 {
     using CursedMod.Events.Arguments.Player;
     using CursedMod.Features.Logger;
